@@ -42,7 +42,7 @@
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/11.png)
 #####接着输入指令：ls -la 查看 如果输出类似这样的信息，就说明配置成功
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/12.png)
-#####输入指令：pbcopy < ~/.ssh/id_rsapub  拷贝<br>
+#####输入指令：pbcopy < ~/.ssh/id_rsa.pub  拷贝<br>
 #####登陆github 进入 SSH keys 添加刚刚拷贝的东西
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/13.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/14.png)
